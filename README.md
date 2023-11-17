@@ -4,11 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
-bikeshare
+bike-share
 
 ### Description
-new comments 
+A code that analyzes the operation of shared bicycles
 
 ### Files used
 Include the files used
