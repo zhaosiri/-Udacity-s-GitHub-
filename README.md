@@ -5,10 +5,10 @@ Include the date you created this project and README file.
 2023.11.06
 
 ### Project Title
-bikeshare
+bike-share
 
 ### Description
-Describe what your project is about and what it does
+Data analysis for bike-share
 
 ### Files used
 Include the files used
